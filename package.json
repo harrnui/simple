@@ -11,6 +11,7 @@
     "start": "next start",
     "build": "next build",
     "dev": "next dev"
+    "type-check": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
     "@types/react": "^19.0.12",
